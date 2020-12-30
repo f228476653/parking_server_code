@@ -1,0 +1,2 @@
+2020-09-01 21:23:26,113 [INFO] - starting up server - [startup()]
+2020-09-01 21:23:26,114 [INFO] - mysql host:127.0.0.1, port: 3306, dbname: demo, username: root, pass: gkEyvxj-c4r? - [attach_db()]
